@@ -29,7 +29,8 @@ for (let i = 0; i < rainDrops.length; i++) {
 }
 
 function EnterMatrix() {
-    howNude = 100
+    howNude = 100;
+    document.getElementById("container1").innerHTML= "";
 }
 
 // document.getElementById("sliderRange").value

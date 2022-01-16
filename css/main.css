@@ -9,7 +9,7 @@
 }
 
 .button {
-    background-color: var(--blue); /* Green */
+    background-color: var(--blue); 
     border: none;
     color: white;
     width: fit-content;
@@ -21,8 +21,8 @@
   }
 
 :root {
-    --main-color: #eeeeee
-    --blue: #0088cc
+    --main-color: #eeeeee;
+    --blue: #0088cc;
 }
 
 .buttonContainer{
